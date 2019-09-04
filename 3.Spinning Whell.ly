@@ -14,7 +14,7 @@ autor = \markup {  \column
 %                     \vspace #0 \line \right-align { "Eng. John Hendricks"}
                    }
 }
-%poet = "Janusz Stasiak"
+%poet = ""
 poet = ""
 %arranger = \markup { \vspace #1 \fontsize #0 "Słowa: Janusz Stasiak" }
 %instrument = \markup { \fontsize #-3 "fortepianówka" }
@@ -115,6 +115,20 @@ chordNames = \chordmode {
   R1
   e:7.9
   e1 a d g
+
+  e a d g
+  e a d g
+  d4 r2.
+  r8 d r2. \break
+
+  e1 a d g
+  e a d g
+  e a d g
+  d4 r2.
+  r8 d r2. \break
+
+  c1 c 
+
 
   R1
   
