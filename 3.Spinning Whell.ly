@@ -69,7 +69,7 @@ podpis = \markup {
 
 % TRANSPOZYCJA!!!!!
 
-trz = d
+trz = c
 trdo = c
 
 global = {
@@ -112,8 +112,10 @@ dynamicsPiano = \new Dynamics {
 chordNames = \chordmode {
   \global
   % Poniżej wpisz akordy. 
-  
-  
+  R1
+  e:7.9
+  e1 a d g
+
   R1
   
   
